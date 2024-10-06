@@ -1,6 +1,6 @@
 Installation Manual
 
-The installation Manual will be of 2 sections where the first section is the main submission of a dockerized application, the second section is only used if the docker container fails, and so that marking can still be done (this is unlikely to be used since we have tested the docker container).
+The installation Manual require manual creation of .env files. Setting up would be seamless as it is a dockerized application.
 Docker installation:
 1. Clone the repo : [https://github.com/unsw-cse-comp99-3900-24t1/capstone-project-3900w09bscoutsregiment]
 Via ssh: 
