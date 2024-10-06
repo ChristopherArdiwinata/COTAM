@@ -2,15 +2,8 @@ Installation Manual
 
 The installation Manual require manual creation of .env files. Setting up would be seamless as it is a dockerized application.
 Docker installation:
-1. Clone the repo : [https://github.com/unsw-cse-comp99-3900-24t1/capstone-project-3900w09bscoutsregiment]
-Via ssh: 
-
-git clone git@github.com:unsw-cse-comp99-3900-24t1/capstone-project-3900w09bscoutsregiment.git
-
+1. Clone the repo 
 2. Navigate to the repo 
-
-cd capstone-project-3900w09bscoutsregiment
-
 3. Include the .env file for the frontend, navigate to the frontend directory, make a .env file, then fill it with the content provided below.
 
 cd frontend
